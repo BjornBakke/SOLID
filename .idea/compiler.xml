@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="finiteStateMachinePattern" />
+        <module name="specificationPattern" />
+        <module name="generics" />
+        <module name="dependencyInversionPrinciple" />
+        <module name="tellDontAsk" />
+        <module name="decoratorPattern" />
+        <module name="strategyPatternUsingEnums" />
+        <module name="openClosedPrinciple" />
+        <module name="templatePattern" />
+        <module name="liskovsSubstitutionPrinciple" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="decoratorPattern" target="11" />
+      <module name="dependencyInversionPrinciple" target="11" />
+      <module name="finiteStateMachinePattern" target="11" />
+      <module name="generics" target="11" />
+      <module name="liskovsSubstitutionPrinciple" target="11" />
+      <module name="objectOrientetDesignAndDevelopment" target="11" />
+      <module name="openClosedPrinciple" target="11" />
+      <module name="SOLID" target="11" />
+      <module name="specificationPattern" target="11" />
+      <module name="strategyPatternUsingEnums" target="11" />
+      <module name="tellDontAsk" target="11" />
+      <module name="templatePattern" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
