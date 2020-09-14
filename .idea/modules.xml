@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SOLID.iml" filepath="$PROJECT_DIR$/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decoratorPattern/decoratorPattern.iml" filepath="$PROJECT_DIR$/decoratorPattern/decoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencyInversionPrinciple/dependencyInversionPrinciple.iml" filepath="$PROJECT_DIR$/dependencyInversionPrinciple/dependencyInversionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finiteStateMachinePattern/finiteStateMachinePattern.iml" filepath="$PROJECT_DIR$/finiteStateMachinePattern/finiteStateMachinePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liskovsSubstitutionPrinciple/liskovsSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/liskovsSubstitutionPrinciple/liskovsSubstitutionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openClosedPrinciple/openClosedPrinciple.iml" filepath="$PROJECT_DIR$/openClosedPrinciple/openClosedPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/specificationPattern/specificationPattern.iml" filepath="$PROJECT_DIR$/specificationPattern/specificationPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategyPatternUsingEnums/strategyPatternUsingEnums.iml" filepath="$PROJECT_DIR$/strategyPatternUsingEnums/strategyPatternUsingEnums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tellDontAsk/tellDontAsk.iml" filepath="$PROJECT_DIR$/tellDontAsk/tellDontAsk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/templatePattern/templatePattern.iml" filepath="$PROJECT_DIR$/templatePattern/templatePattern.iml" />
+    </modules>
+  </component>
+</project>
