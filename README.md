@@ -1,0 +1,5 @@
+SOLID
+=====
+
+solid principles
+# SOLID
