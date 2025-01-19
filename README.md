@@ -1,9 +1,6 @@
 SOLID
 =====
 
-solid principles
-# SOLID
-
 ## Project Description
 
 This project demonstrates the implementation of various design patterns and principles in Java. The main focus is on the SOLID principles, which are a set of five design principles intended to make software designs more understandable, flexible, and maintainable. The project includes examples of the following design patterns and principles:
